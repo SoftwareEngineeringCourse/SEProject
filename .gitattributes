@@ -1,0 +1,6 @@
+*.pak filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+OnHisWay/SoftEngineerProject/Content/Paks/* filter=lfs diff=lfs merge=lfs -text
+OnHisWay/SoftEngineerProject/Binaries/*
+
+ filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,1237 @@
+﻿Log file open, 03/10/22 00:57:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Display: Found Pak file ../../../SoftEngineerProject/Content/Paks/SoftEngineerProject-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../SoftEngineerProject/Content/Paks/SoftEngineerProject-WindowsNoEditor.pak.
+LogPakFile: PakFile PrimaryIndexSize=32826
+LogPakFile: PakFile PathHashIndexSize=61523
+LogPakFile: PakFile FullDirectoryIndexSize=101883
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile '../../../SoftEngineerProject/Content/Paks/SoftEngineerProject-WindowsNoEditor.pak' (chunk index -1, root '../../../') mounted
+LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:../../../ File:../../../SoftEngineerProject/Content/Paks/SoftEngineerProject-WindowsNoEditor.pak)
+LogPakFile: OnPakFileMounted2Time == 0.000044
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.188898
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin ColorWheelPlugin
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct  6 2021 14:55:41
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/cs/UE4/Game/WindowsNoEditor/SoftEngineerProject/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.03.09-16.57.43:958][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.03.09-16.57.43:958][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.09-16.57.43:958][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.03.09-16.57.43:958][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.03.09-16.57.43:959][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.09-16.57.43:959][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.03.09-16.57.43:979][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.09-16.57.43:979][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.09-16.57.43:980][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.09-16.57.43:980][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2022.03.09-16.57.43:980][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2022.03.09-16.57.43:980][  0]LogHAL: Display: Platform has ~ 20 GB [21312131072 / 34359738368 / 20], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.09-16.57.43:981][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2022.03.09-16.57.43:981][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.09-16.57.43:981][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.09-16.57.43:981][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.03.09-16.57.43:982][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:983][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.09-16.57.43:983][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.09-16.57.43:983][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2022.03.09-16.57.43:983][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.09-16.57.43:983][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.09-16.57.43:983][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.09-16.57.43:983][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.09-16.57.43:983][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.09-16.57.43:983][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.09-16.57.43:983][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.09-16.57.43:983][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../SoftEngineerProject/Saved/Config/WindowsNoEditor/Engine.ini]
+[2022.03.09-16.57.43:983][  0]LogInit: Computer: DESKTOP-VKB102S
+[2022.03.09-16.57.43:983][  0]LogInit: User: 86137
+[2022.03.09-16.57.43:983][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.03.09-16.57.43:983][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.09-16.57.43:983][  0]LogMemory: Memory total: Physical=19.8GB (20GB approx)
+[2022.03.09-16.57.43:983][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2022.03.09-16.57.43:983][  0]LogMemory: Process Physical Memory: 76.39 MB used, 76.40 MB peak
+[2022.03.09-16.57.43:983][  0]LogMemory: Process Virtual Memory: 78.85 MB used, 78.85 MB peak
+[2022.03.09-16.57.43:983][  0]LogMemory: Physical Memory: 8511.41 MB used,  11813.42 MB free, 20324.83 MB total
+[2022.03.09-16.57.43:983][  0]LogMemory: Virtual Memory: 134206680.00 MB used,  11049.87 MB free, 134217728.00 MB total
+[2022.03.09-16.57.43:993][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.09-16.57.44:244][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.09-16.57.44:244][  0]LogInit: Using OS detected language (zh-CN).
+[2022.03.09-16.57.44:245][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.03.09-16.57.44:245][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2022.03.09-16.57.44:245][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2022.03.09-16.57.44:270][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.09-16.57.44:295][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.09-16.57.44:295][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.09-16.57.44:344][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.09-16.57.44:359][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.09-16.57.44:359][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.09-16.57.44:359][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.09-16.57.44:359][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.09-16.57.44:536][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2022.03.09-16.57.44:536][  0]LogD3D11RHI:       3962/0/10162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.09-16.57.44:587][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.03.09-16.57.44:587][  0]LogD3D11RHI:       128/0/10162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.03.09-16.57.44:589][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.09-16.57.44:589][  0]LogD3D11RHI:       0/0/10162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.09-16.57.44:589][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.03.09-16.57.44:589][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
+[2022.03.09-16.57.44:589][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.09-16.57.44:589][  0]LogD3D11RHI:     DeviceId    : 1f91
+[2022.03.09-16.57.44:589][  0]LogD3D11RHI:     SubSysId    : 9491028
+[2022.03.09-16.57.44:589][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.09-16.57.44:589][  0]LogD3D11RHI:     DedicatedVideoMemory : 4154458112 bytes
+[2022.03.09-16.57.44:589][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.09-16.57.44:589][  0]LogD3D11RHI:     SharedSystemMemory : 10656065536 bytes
+[2022.03.09-16.57.44:589][  0]LogD3D11RHI:     AdapterLuid : 0 80785
+[2022.03.09-16.57.44:595][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.09-16.57.44:595][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.09-16.57.44:595][  0]LogWindows: EnumDisplayDevices:
+[2022.03.09-16.57.44:595][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.03.09-16.57.44:596][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.03.09-16.57.44:597][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.03.09-16.57.44:598][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2022.03.09-16.57.44:598][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.03.09-16.57.44:598][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2022.03.09-16.57.44:598][  0]LogD3D11RHI:   Driver Version: 496.13 (internal:30.0.14.9613, unified:496.13)
+[2022.03.09-16.57.44:598][  0]LogD3D11RHI:      Driver Date: 10-6-2021
+[2022.03.09-16.57.44:598][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2022.03.09-16.57.44:599][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.03.09-16.57.44:599][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1650
+[2022.03.09-16.57.44:599][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.09-16.57.44:599][  0]LogD3D11RHI:     DeviceId    : 1f91
+[2022.03.09-16.57.44:599][  0]LogD3D11RHI:     SubSysId    : 9491028
+[2022.03.09-16.57.44:599][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.09-16.57.44:599][  0]LogD3D11RHI:     DedicatedVideoMemory : 4154458112 bytes
+[2022.03.09-16.57.44:599][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.09-16.57.44:599][  0]LogD3D11RHI:     SharedSystemMemory : 10656065536 bytes
+[2022.03.09-16.57.44:599][  0]LogD3D11RHI:     AdapterLuid : 0 80785
+[2022.03.09-16.57.44:660][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.09-16.57.44:660][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.09-16.57.44:660][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.09-16.57.44:679][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.09-16.57.44:780][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.09-16.57.44:780][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.09-16.57.44:780][  0]LogODSC: ODSC Thread active.
+[2022.03.09-16.57.44:801][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.09-16.57.44:802][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.09-16.57.44:912][  0]LogInit: Using OS detected language (zh-CN).
+[2022.03.09-16.57.44:912][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.03.09-16.57.44:913][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2022.03.09-16.57.44:913][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2022.03.09-16.57.44:916][  0]LogTextLocalizationManager: Compacting localization data took   2.31ms
+[2022.03.09-16.57.44:916][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2022.03.09-16.57.44:991][  0]LogCollisionProfile: Warning: Profile (Pawn) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.03.09-16.57.44:991][  0]LogCollisionProfile: Warning: Profile (Spectator) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.03.09-16.57.44:991][  0]LogCollisionProfile: Warning: Profile (CharacterMesh) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.03.09-16.57.44:991][  0]LogCollisionProfile: Warning: Profile (InvisibleWall) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.03.09-16.57.44:991][  0]LogCollisionProfile: Warning: Profile (InvisibleWallDynamic) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.03.09-16.57.44:991][  0]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.03.09-16.57.44:991][  0]LogCollisionProfile: Warning: Profile (Ragdoll) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.03.09-16.57.44:991][  0]LogCollisionProfile: Warning: Profile (UI) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.03.09-16.57.44:991][  0]LogCollisionProfile: Warning: Profile (ALS_Character) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.03.09-16.57.44:991][  0]LogCollisionProfile: Warning: Profile (ALS_Prop) - Custom Channel Name = 'Grabbable' hasn't been found
+[2022.03.09-16.57.44:992][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.03.09-16.57.44:992][  0]LogPackageLocalizationCache: Processed 26 localized package path(s) for 1 prioritized culture(s) in 0.000072 seconds
+[2022.03.09-16.57.44:992][  0]LogPakFile: New pak file ../../../SoftEngineerProject/Content/Paks/SoftEngineerProject-WindowsNoEditor.pak added to pak precacher.
+[2022.03.09-16.57.44:998][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2022.03.09-16.57.44:998][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2022.03.09-16.57.44:999][  0]LogInit: Active device profile: [000001B2F0B71A80][000001B2E0570010 49] WindowsNoEditor
+[2022.03.09-16.57.44:999][  0]LogInit: Profiles: [000001B2F0B71900][000001B2F026DB70 49] Windows, [000001B2F0B71A80][000001B2E0570010 49] WindowsNoEditor, 
+[2022.03.09-16.57.45:026][  0]LogNetVersion: SoftEngineerProject 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 769279847)
+[2022.03.09-16.57.45:063][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.09-16.57.45:063][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.09-16.57.45:064][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.09-16.57.45:087][  0]LogMoviePlayer: Initializing movie player
+[2022.03.09-16.57.45:088][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 9238F0C24DEC9C4E0946A4B6D3807634 | Instance: 9BF9581545904D7DA09A30A1B62D672A (DESKTOP-VKB102S-7140).
+[2022.03.09-16.57.45:089][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.09-16.57.45:089][  0]LogOcInput: OculusInput pre-init called
+[2022.03.09-16.57.45:093][  0]LogUObjectArray: 15808 objects as part of root set at end of initial load.
+[2022.03.09-16.57.45:093][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2022.03.09-16.57.45:093][  0]LogUObjectAllocator: 3223144 out of 0 bytes used by permanent object pool.
+[2022.03.09-16.57.45:093][  0]LogUObjectArray: CloseDisregardForGC: 15808/15808 objects in disregard for GC pool
+[2022.03.09-16.57.45:094][  0]LogEngine: Initializing Engine...
+[2022.03.09-16.57.45:106][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.09-16.57.45:106][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.09-16.57.45:107][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.09-16.57.45:152][  0]LogPakFile: Precache HighWater 16MB
+
+[2022.03.09-16.57.45:152][  0]LogPakFile: Precache HighWater 32MB
+
+[2022.03.09-16.57.45:152][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.09-16.57.45:152][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.09-16.57.45:152][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.09-16.57.45:153][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.09-16.57.45:153][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.09-16.57.45:153][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.09-16.57.45:153][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.09-16.57.45:153][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.09-16.57.45:153][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.09-16.57.45:153][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.09-16.57.45:153][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.09-16.57.45:153][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.09-16.57.45:153][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.09-16.57.45:153][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.09-16.57.45:153][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.09-16.57.45:153][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.09-16.57.45:153][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.09-16.57.45:153][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.09-16.57.45:211][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.09-16.57.45:233][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.09-16.57.45:233][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.09-16.57.45:297][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2022.03.09-16.57.45:297][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.09-16.57.45:298][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.09-16.57.45:298][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.09-16.57.45:299][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.09-16.57.45:299][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.09-16.57.45:299][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.09-16.57.45:300][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.09-16.57.45:300][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.09-16.57.45:300][  0]LogInit: FAudioDevice initialized.
+[2022.03.09-16.57.45:300][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.09-16.57.45:301][  0]LogInit: Texture streaming: Enabled
+[2022.03.09-16.57.45:307][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.09-16.57.45:307][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.09-16.57.45:307][  0]LogInit: Display: Game Engine Initialized.
+[2022.03.09-16.57.45:308][  0]LogInit: Display: Starting Game.
+[2022.03.09-16.57.45:308][  0]LogNet: Browse: /Game/MainContent/Map/StartUIMap?Name=Player
+[2022.03.09-16.57.45:308][  0]LogLoad: LoadMap: /Game/MainContent/Map/StartUIMap?Name=Player
+[2022.03.09-16.57.45:308][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.03.09-16.57.45:309][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-16.57.45:309][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-16.57.45:312][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.09-16.57.45:313][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.03.09-16.57.45:401][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartUIMap'.
+[2022.03.09-16.57.45:402][  0]LogAIModule: Creating AISystem for world StartUIMap
+[2022.03.09-16.57.45:403][  0]LogLoad: Game class is 'BPGameMode_C'
+[2022.03.09-16.57.45:404][  0]LogWorld: Bringing World /Game/MainContent/Map/StartUIMap.StartUIMap up for play (max tick rate 0) at 2022.03.10-00.57.45
+[2022.03.09-16.57.45:404][  0]LogWorld: Bringing up level for play took: 0.000896
+[2022.03.09-16.57.45:412][  0]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.09-16.57.45:414][  0]LogSlate: Took 0.001625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.03.09-16.57.45:414][  0]LogLoad: Took 0.106154 seconds to LoadMap(/Game/MainContent/Map/StartUIMap)
+[2022.03.09-16.57.45:519][  0]LogRenderer: Reallocating scene render targets to support 1536x864 Format 10 NumSamples 1 (Frame:1).
+[2022.03.09-16.57.45:519][  0]LogPakFile: AllPaks IndexSizes: DirectoryHashSize=337020, PathHashSize=16, EntriesSize=32752, TotalSize=369788
+[2022.03.09-16.57.45:519][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.09-16.57.45:519][  0]LogLoad: (Engine Initialization) Total time: 2.00 seconds
+[2022.03.09-16.57.45:523][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.09-16.57.45:527][  1]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/StartUIMap.StartUIMap:PersistentLevel.MainChar_C_2147482530.CharacterMesh0.ALS_AnimBP_C_2147482528'
+[2022.03.09-16.57.45:527][  1]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/StartUIMap.StartUIMap:PersistentLevel.MainChar_C_2147482530.CharacterMesh0.ALS_AnimBP_C_2147482528'
+[2022.03.09-16.57.46:221][111]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/StartUIMap.StartUIMap:PersistentLevel.MainChar_C_2147482530.CharacterMesh0.ALS_AnimBP_C_2147482528'
+[2022.03.09-16.57.46:662][210]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/StartUIMap.StartUIMap:PersistentLevel.MainChar_C_2147482530.CharacterMesh0.ALS_AnimBP_C_2147482528'
+[2022.03.09-16.57.46:903][266]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/StartUIMap.StartUIMap:PersistentLevel.MainChar_C_2147482530.CharacterMesh0.ALS_AnimBP_C_2147482528'
+[2022.03.09-16.58.02:685][461]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+[2022.03.09-16.58.10:273][119]LogNet: Browse: /Game/MainContent/Map/GuideMap
+[2022.03.09-16.58.10:273][119]LogLoad: LoadMap: /Game/MainContent/Map/GuideMap
+[2022.03.09-16.58.10:273][119]LogWorld: BeginTearingDown for /Game/MainContent/Map/StartUIMap
+[2022.03.09-16.58.10:274][119]LogWorld: UWorld::CleanupWorld for StartUIMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-16.58.10:274][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-16.58.10:303][119]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.09-16.58.10:307][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.03.09-16.58.10:309][119]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.03.09-16.58.10:418][119]LogAudio: Display: Audio Device (ID: 1) registered with world 'GuideMap'.
+[2022.03.09-16.58.10:419][119]LogAIModule: Creating AISystem for world GuideMap
+[2022.03.09-16.58.10:419][119]LogLoad: Game class is 'BPGameMode_C'
+[2022.03.09-16.58.10:423][119]LogWorld: Bringing World /Game/MainContent/Map/GuideMap.GuideMap up for play (max tick rate 0) at 2022.03.10-00.58.10
+[2022.03.09-16.58.10:441][119]LogWorld: Bringing up level for play took: 0.020808
+[2022.03.09-16.58.10:446][119]LogLoad: Took 0.173103 seconds to LoadMap(/Game/MainContent/Map/GuideMap)
+[2022.03.09-16.58.10:447][119]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147482437.CharacterMesh0.ALS_AnimBP_C_2147482435'
+[2022.03.09-16.58.10:447][119]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147482437.CharacterMesh0.ALS_AnimBP_C_2147482435'
+[2022.03.09-16.58.10:962][189]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147482437.CharacterMesh0.ALS_AnimBP_C_2147482435'
+[2022.03.09-16.58.11:347][249]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147482437.CharacterMesh0.ALS_AnimBP_C_2147482435'
+[2022.03.09-16.58.12:289][382]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147482412.CharacterMesh0.ALS_AnimBP_C_2147482410'
+[2022.03.09-16.58.14:291][628]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147482293.CharacterMesh0.ALS_AnimBP_C_2147482292'
+[2022.03.09-16.58.16:299][832]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147482162.CharacterMesh0.ALS_AnimBP_C_2147482161'
+[2022.03.09-16.58.16:589][859]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147482359.CharacterMesh0.ALS_AnimBP_C_2147482358'
+[2022.03.09-16.58.16:600][860]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147482359.CharacterMesh0.ALS_AnimBP_C_2147482358'
+[2022.03.09-16.58.16:941][892]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147482242.CharacterMesh0.ALS_AnimBP_C_2147482241'
+[2022.03.09-16.58.16:941][892]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147482242.CharacterMesh0.ALS_AnimBP_C_2147482241'
+[2022.03.09-16.58.18:306][ 21]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147482030.CharacterMesh0.ALS_AnimBP_C_2147482029'
+[2022.03.09-16.58.18:640][ 51]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147482325.CharacterMesh0.ALS_AnimBP_C_2147482324'
+[2022.03.09-16.58.20:299][195]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481888.CharacterMesh0.ALS_AnimBP_C_2147481887'
+[2022.03.09-16.58.22:293][369]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481749.CharacterMesh0.ALS_AnimBP_C_2147481748'
+[2022.03.09-16.58.23:097][441]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481979.CharacterMesh0.ALS_AnimBP_C_2147481978'
+[2022.03.09-16.58.23:097][441]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481979.CharacterMesh0.ALS_AnimBP_C_2147481978'
+[2022.03.09-16.58.23:131][444]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481837.CharacterMesh0.ALS_AnimBP_C_2147481836'
+[2022.03.09-16.58.23:131][444]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481837.CharacterMesh0.ALS_AnimBP_C_2147481836'
+[2022.03.09-16.58.24:294][551]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481605.CharacterMesh0.ALS_AnimBP_C_2147481604'
+[2022.03.09-16.58.24:626][582]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481945.CharacterMesh0.ALS_AnimBP_C_2147481944'
+[2022.03.09-16.58.26:293][744]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481466.CharacterMesh0.ALS_AnimBP_C_2147481465'
+[2022.03.09-16.58.28:306][932]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481329.CharacterMesh0.ALS_AnimBP_C_2147481328'
+[2022.03.09-16.58.28:589][959]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481415.CharacterMesh0.ALS_AnimBP_C_2147481414'
+[2022.03.09-16.58.28:599][960]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481415.CharacterMesh0.ALS_AnimBP_C_2147481414'
+[2022.03.09-16.58.29:078][  7]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481554.CharacterMesh0.ALS_AnimBP_C_2147481553'
+[2022.03.09-16.58.29:078][  7]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481554.CharacterMesh0.ALS_AnimBP_C_2147481553'
+[2022.03.09-16.58.30:304][120]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481190.CharacterMesh0.ALS_AnimBP_C_2147481189'
+[2022.03.09-16.58.30:627][151]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481520.CharacterMesh0.ALS_AnimBP_C_2147481519'
+[2022.03.09-16.58.32:300][312]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481050.CharacterMesh0.ALS_AnimBP_C_2147481049'
+[2022.03.09-16.58.34:296][484]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480910.CharacterMesh0.ALS_AnimBP_C_2147480909'
+[2022.03.09-16.58.34:599][509]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481139.CharacterMesh0.ALS_AnimBP_C_2147481138'
+[2022.03.09-16.58.34:611][510]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481139.CharacterMesh0.ALS_AnimBP_C_2147481138'
+[2022.03.09-16.58.34:621][511]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480999.CharacterMesh0.ALS_AnimBP_C_2147480998'
+[2022.03.09-16.58.34:621][511]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480999.CharacterMesh0.ALS_AnimBP_C_2147480998'
+[2022.03.09-16.58.35:293][571]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480999.CharacterMesh0.ALS_AnimBP_C_2147480998'
+[2022.03.09-16.58.35:293][571]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481139.CharacterMesh0.ALS_AnimBP_C_2147481138'
+[2022.03.09-16.58.36:292][658]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480767.CharacterMesh0.ALS_AnimBP_C_2147480766'
+[2022.03.09-16.58.36:638][688]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147481105.CharacterMesh0.ALS_AnimBP_C_2147481104'
+[2022.03.09-16.58.38:305][840]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480618.CharacterMesh0.ALS_AnimBP_C_2147480617'
+[2022.03.09-16.58.40:297][ 14]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480470.CharacterMesh0.ALS_AnimBP_C_2147480469'
+[2022.03.09-16.58.40:691][ 49]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480716.CharacterMesh0.ALS_AnimBP_C_2147480715'
+[2022.03.09-16.58.40:691][ 49]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480716.CharacterMesh0.ALS_AnimBP_C_2147480715'
+[2022.03.09-16.58.41:043][ 80]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480567.CharacterMesh0.ALS_AnimBP_C_2147480566'
+[2022.03.09-16.58.41:043][ 80]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480567.CharacterMesh0.ALS_AnimBP_C_2147480566'
+[2022.03.09-16.58.41:295][102]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480567.CharacterMesh0.ALS_AnimBP_C_2147480566'
+[2022.03.09-16.58.41:296][102]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480716.CharacterMesh0.ALS_AnimBP_C_2147480715'
+[2022.03.09-16.58.42:302][188]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480337.CharacterMesh0.ALS_AnimBP_C_2147480336'
+[2022.03.09-16.58.42:639][220]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480682.CharacterMesh0.ALS_AnimBP_C_2147480681'
+[2022.03.09-16.58.44:296][372]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480191.CharacterMesh0.ALS_AnimBP_C_2147480190'
+[2022.03.09-16.58.46:306][561]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480049.CharacterMesh0.ALS_AnimBP_C_2147480048'
+[2022.03.09-16.58.46:591][588]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480140.CharacterMesh0.ALS_AnimBP_C_2147480139'
+[2022.03.09-16.58.46:601][589]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480140.CharacterMesh0.ALS_AnimBP_C_2147480139'
+[2022.03.09-16.58.46:610][590]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480286.CharacterMesh0.ALS_AnimBP_C_2147480285'
+[2022.03.09-16.58.46:611][590]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480286.CharacterMesh0.ALS_AnimBP_C_2147480285'
+[2022.03.09-16.58.48:304][746]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479920.CharacterMesh0.ALS_AnimBP_C_2147479919'
+[2022.03.09-16.58.48:304][746]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479903.CharacterMesh0.ALS_AnimBP_C_2147479902'
+[2022.03.09-16.58.48:304][746]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479903.CharacterMesh0.ALS_AnimBP_C_2147479902'
+[2022.03.09-16.58.48:625][776]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147480252.CharacterMesh0.ALS_AnimBP_C_2147480251'
+[2022.03.09-16.58.50:301][931]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479797.CharacterMesh0.ALS_AnimBP_C_2147479796'
+[2022.03.09-16.58.52:300][120]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479679.CharacterMesh0.ALS_AnimBP_C_2147479678'
+[2022.03.09-16.58.53:062][191]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479869.CharacterMesh0.ALS_AnimBP_C_2147479868'
+[2022.03.09-16.58.53:062][191]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479869.CharacterMesh0.ALS_AnimBP_C_2147479868'
+[2022.03.09-16.58.53:131][198]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479746.CharacterMesh0.ALS_AnimBP_C_2147479745'
+[2022.03.09-16.58.53:131][198]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479746.CharacterMesh0.ALS_AnimBP_C_2147479745'
+[2022.03.09-16.58.54:300][303]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479546.CharacterMesh0.ALS_AnimBP_C_2147479545'
+[2022.03.09-16.58.54:623][332]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479835.CharacterMesh0.ALS_AnimBP_C_2147479834'
+[2022.03.09-16.58.56:304][479]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479405.CharacterMesh0.ALS_AnimBP_C_2147479404'
+[2022.03.09-16.58.58:295][662]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479256.CharacterMesh0.ALS_AnimBP_C_2147479255'
+[2022.03.09-16.58.59:067][736]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479495.CharacterMesh0.ALS_AnimBP_C_2147479494'
+[2022.03.09-16.58.59:067][736]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479495.CharacterMesh0.ALS_AnimBP_C_2147479494'
+[2022.03.09-16.58.59:127][742]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479354.CharacterMesh0.ALS_AnimBP_C_2147479353'
+[2022.03.09-16.58.59:127][742]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479354.CharacterMesh0.ALS_AnimBP_C_2147479353'
+[2022.03.09-16.59.00:301][858]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479129.CharacterMesh0.ALS_AnimBP_C_2147479128'
+[2022.03.09-16.59.00:636][887]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479461.CharacterMesh0.ALS_AnimBP_C_2147479460'
+[2022.03.09-16.59.02:294][ 37]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478992.CharacterMesh0.ALS_AnimBP_C_2147478991'
+[2022.03.09-16.59.04:300][214]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478842.CharacterMesh0.ALS_AnimBP_C_2147478841'
+[2022.03.09-16.59.04:684][247]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478941.CharacterMesh0.ALS_AnimBP_C_2147478940'
+[2022.03.09-16.59.04:684][247]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478941.CharacterMesh0.ALS_AnimBP_C_2147478940'
+[2022.03.09-16.59.04:720][250]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479078.CharacterMesh0.ALS_AnimBP_C_2147479077'
+[2022.03.09-16.59.04:720][250]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479078.CharacterMesh0.ALS_AnimBP_C_2147479077'
+[2022.03.09-16.59.06:306][390]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478706.CharacterMesh0.ALS_AnimBP_C_2147478705'
+[2022.03.09-16.59.06:628][417]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147479044.CharacterMesh0.ALS_AnimBP_C_2147479043'
+[2022.03.09-16.59.08:300][562]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478562.CharacterMesh0.ALS_AnimBP_C_2147478561'
+[2022.03.09-16.59.10:294][746]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478415.CharacterMesh0.ALS_AnimBP_C_2147478414'
+[2022.03.09-16.59.10:609][776]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478655.CharacterMesh0.ALS_AnimBP_C_2147478654'
+[2022.03.09-16.59.10:609][776]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478655.CharacterMesh0.ALS_AnimBP_C_2147478654'
+[2022.03.09-16.59.10:610][776]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478511.CharacterMesh0.ALS_AnimBP_C_2147478510'
+[2022.03.09-16.59.10:610][776]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478511.CharacterMesh0.ALS_AnimBP_C_2147478510'
+[2022.03.09-16.59.11:340][848]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147482437.CharacterMesh0.ALS_AnimBP_C_2147482435'
+[2022.03.09-16.59.12:299][937]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478291.CharacterMesh0.ALS_AnimBP_C_2147478290'
+[2022.03.09-16.59.12:618][966]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478621.CharacterMesh0.ALS_AnimBP_C_2147478620'
+[2022.03.09-16.59.14:303][122]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478168.CharacterMesh0.ALS_AnimBP_C_2147478167'
+[2022.03.09-16.59.16:301][309]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478040.CharacterMesh0.ALS_AnimBP_C_2147478039'
+[2022.03.09-16.59.16:605][338]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478240.CharacterMesh0.ALS_AnimBP_C_2147478239'
+[2022.03.09-16.59.16:605][338]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478240.CharacterMesh0.ALS_AnimBP_C_2147478239'
+[2022.03.09-16.59.16:617][339]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478117.CharacterMesh0.ALS_AnimBP_C_2147478116'
+[2022.03.09-16.59.16:617][339]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478117.CharacterMesh0.ALS_AnimBP_C_2147478116'
+[2022.03.09-16.59.18:298][497]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477917.CharacterMesh0.ALS_AnimBP_C_2147477916'
+[2022.03.09-16.59.18:645][528]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147478206.CharacterMesh0.ALS_AnimBP_C_2147478205'
+[2022.03.09-16.59.20:301][683]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477786.CharacterMesh0.ALS_AnimBP_C_2147477785'
+[2022.03.09-16.59.22:295][868]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477658.CharacterMesh0.ALS_AnimBP_C_2147477657'
+[2022.03.09-16.59.22:591][895]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477735.CharacterMesh0.ALS_AnimBP_C_2147477734'
+[2022.03.09-16.59.22:604][896]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477735.CharacterMesh0.ALS_AnimBP_C_2147477734'
+[2022.03.09-16.59.22:914][926]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477866.CharacterMesh0.ALS_AnimBP_C_2147477865'
+[2022.03.09-16.59.22:914][926]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477866.CharacterMesh0.ALS_AnimBP_C_2147477865'
+[2022.03.09-16.59.24:296][ 60]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477539.CharacterMesh0.ALS_AnimBP_C_2147477538'
+[2022.03.09-16.59.24:630][ 92]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477832.CharacterMesh0.ALS_AnimBP_C_2147477831'
+[2022.03.09-16.59.26:301][252]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477412.CharacterMesh0.ALS_AnimBP_C_2147477411'
+[2022.03.09-16.59.28:299][440]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477292.CharacterMesh0.ALS_AnimBP_C_2147477291'
+[2022.03.09-16.59.28:611][469]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477361.CharacterMesh0.ALS_AnimBP_C_2147477360'
+[2022.03.09-16.59.28:611][469]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477361.CharacterMesh0.ALS_AnimBP_C_2147477360'
+[2022.03.09-16.59.28:930][499]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477488.CharacterMesh0.ALS_AnimBP_C_2147477487'
+[2022.03.09-16.59.28:930][499]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477488.CharacterMesh0.ALS_AnimBP_C_2147477487'
+[2022.03.09-16.59.29:295][533]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477488.CharacterMesh0.ALS_AnimBP_C_2147477487'
+[2022.03.09-16.59.30:302][628]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477166.CharacterMesh0.ALS_AnimBP_C_2147477165'
+[2022.03.09-16.59.30:633][659]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477454.CharacterMesh0.ALS_AnimBP_C_2147477453'
+[2022.03.09-16.59.32:301][813]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477038.CharacterMesh0.ALS_AnimBP_C_2147477037'
+[2022.03.09-16.59.34:303][992]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476908.CharacterMesh0.ALS_AnimBP_C_2147476907'
+[2022.03.09-16.59.34:590][ 17]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477115.CharacterMesh0.ALS_AnimBP_C_2147477114'
+[2022.03.09-16.59.34:602][ 18]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476987.CharacterMesh0.ALS_AnimBP_C_2147476986'
+[2022.03.09-16.59.34:602][ 18]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476987.CharacterMesh0.ALS_AnimBP_C_2147476986'
+[2022.03.09-16.59.34:603][ 18]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477115.CharacterMesh0.ALS_AnimBP_C_2147477114'
+[2022.03.09-16.59.35:285][ 79]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476987.CharacterMesh0.ALS_AnimBP_C_2147476986'
+[2022.03.09-16.59.35:286][ 79]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477115.CharacterMesh0.ALS_AnimBP_C_2147477114'
+[2022.03.09-16.59.36:305][171]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476771.CharacterMesh0.ALS_AnimBP_C_2147476770'
+[2022.03.09-16.59.36:634][201]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147477081.CharacterMesh0.ALS_AnimBP_C_2147477080'
+[2022.03.09-16.59.38:306][357]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476635.CharacterMesh0.ALS_AnimBP_C_2147476634'
+[2022.03.09-16.59.40:294][543]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476498.CharacterMesh0.ALS_AnimBP_C_2147476497'
+[2022.03.09-16.59.40:807][591]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476584.CharacterMesh0.ALS_AnimBP_C_2147476583'
+[2022.03.09-16.59.40:807][591]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476584.CharacterMesh0.ALS_AnimBP_C_2147476583'
+[2022.03.09-16.59.41:047][614]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476720.CharacterMesh0.ALS_AnimBP_C_2147476719'
+[2022.03.09-16.59.41:047][614]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476720.CharacterMesh0.ALS_AnimBP_C_2147476719'
+[2022.03.09-16.59.42:297][733]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476368.CharacterMesh0.ALS_AnimBP_C_2147476367'
+[2022.03.09-16.59.42:635][764]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476686.CharacterMesh0.ALS_AnimBP_C_2147476685'
+[2022.03.09-16.59.44:298][926]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476243.CharacterMesh0.ALS_AnimBP_C_2147476242'
+[2022.03.09-16.59.46:301][116]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476128.CharacterMesh0.ALS_AnimBP_C_2147476127'
+[2022.03.09-16.59.46:593][141]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476192.CharacterMesh0.ALS_AnimBP_C_2147476191'
+[2022.03.09-16.59.46:604][142]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476192.CharacterMesh0.ALS_AnimBP_C_2147476191'
+[2022.03.09-16.59.46:804][161]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476317.CharacterMesh0.ALS_AnimBP_C_2147476316'
+[2022.03.09-16.59.46:804][161]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476317.CharacterMesh0.ALS_AnimBP_C_2147476316'
+[2022.03.09-16.59.48:306][294]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475995.CharacterMesh0.ALS_AnimBP_C_2147475994'
+[2022.03.09-16.59.48:636][322]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147476283.CharacterMesh0.ALS_AnimBP_C_2147476282'
+[2022.03.09-16.59.50:305][477]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475853.CharacterMesh0.ALS_AnimBP_C_2147475852'
+[2022.03.09-16.59.52:307][665]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475722.CharacterMesh0.ALS_AnimBP_C_2147475721'
+[2022.03.09-16.59.52:603][693]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475944.CharacterMesh0.ALS_AnimBP_C_2147475943'
+[2022.03.09-16.59.52:603][693]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475944.CharacterMesh0.ALS_AnimBP_C_2147475943'
+[2022.03.09-16.59.52:625][695]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475802.CharacterMesh0.ALS_AnimBP_C_2147475801'
+[2022.03.09-16.59.52:625][695]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475802.CharacterMesh0.ALS_AnimBP_C_2147475801'
+[2022.03.09-16.59.54:299][852]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475597.CharacterMesh0.ALS_AnimBP_C_2147475596'
+[2022.03.09-16.59.54:623][882]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475910.CharacterMesh0.ALS_AnimBP_C_2147475909'
+[2022.03.09-16.59.56:304][ 32]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475478.CharacterMesh0.ALS_AnimBP_C_2147475477'
+[2022.03.09-16.59.58:299][210]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475354.CharacterMesh0.ALS_AnimBP_C_2147475353'
+[2022.03.09-16.59.59:095][284]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475546.CharacterMesh0.ALS_AnimBP_C_2147475545'
+[2022.03.09-16.59.59:095][284]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475546.CharacterMesh0.ALS_AnimBP_C_2147475545'
+[2022.03.09-16.59.59:129][287]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475427.CharacterMesh0.ALS_AnimBP_C_2147475426'
+[2022.03.09-16.59.59:129][287]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475427.CharacterMesh0.ALS_AnimBP_C_2147475426'
+[2022.03.09-17.00.00:305][396]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475213.CharacterMesh0.ALS_AnimBP_C_2147475212'
+[2022.03.09-17.00.00:637][427]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475512.CharacterMesh0.ALS_AnimBP_C_2147475511'
+[2022.03.09-17.00.02:297][584]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475080.CharacterMesh0.ALS_AnimBP_C_2147475079'
+[2022.03.09-17.00.04:297][772]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474956.CharacterMesh0.ALS_AnimBP_C_2147474955'
+[2022.03.09-17.00.04:589][799]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475029.CharacterMesh0.ALS_AnimBP_C_2147475028'
+[2022.03.09-17.00.04:601][800]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475029.CharacterMesh0.ALS_AnimBP_C_2147475028'
+[2022.03.09-17.00.05:043][841]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475162.CharacterMesh0.ALS_AnimBP_C_2147475161'
+[2022.03.09-17.00.05:043][841]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475162.CharacterMesh0.ALS_AnimBP_C_2147475161'
+[2022.03.09-17.00.06:299][960]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474830.CharacterMesh0.ALS_AnimBP_C_2147474829'
+[2022.03.09-17.00.06:622][989]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147475128.CharacterMesh0.ALS_AnimBP_C_2147475127'
+[2022.03.09-17.00.08:305][148]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474699.CharacterMesh0.ALS_AnimBP_C_2147474698'
+[2022.03.09-17.00.10:299][331]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474575.CharacterMesh0.ALS_AnimBP_C_2147474574'
+[2022.03.09-17.00.10:611][360]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474779.CharacterMesh0.ALS_AnimBP_C_2147474778'
+[2022.03.09-17.00.10:612][360]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474779.CharacterMesh0.ALS_AnimBP_C_2147474778'
+[2022.03.09-17.00.10:642][363]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474648.CharacterMesh0.ALS_AnimBP_C_2147474647'
+[2022.03.09-17.00.10:642][363]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474648.CharacterMesh0.ALS_AnimBP_C_2147474647'
+[2022.03.09-17.00.12:305][518]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474456.CharacterMesh0.ALS_AnimBP_C_2147474455'
+[2022.03.09-17.00.12:492][536]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_CLF_to_N' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147482437.CharacterMesh0.ALS_AnimBP_C_2147482435'
+[2022.03.09-17.00.12:627][549]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474745.CharacterMesh0.ALS_AnimBP_C_2147474744'
+[2022.03.09-17.00.14:298][706]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474331.CharacterMesh0.ALS_AnimBP_C_2147474330'
+[2022.03.09-17.00.16:295][892]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474205.CharacterMesh0.ALS_AnimBP_C_2147474204'
+[2022.03.09-17.00.17:108][968]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474405.CharacterMesh0.ALS_AnimBP_C_2147474404'
+[2022.03.09-17.00.17:108][968]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474405.CharacterMesh0.ALS_AnimBP_C_2147474404'
+[2022.03.09-17.00.17:140][971]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474280.CharacterMesh0.ALS_AnimBP_C_2147474279'
+[2022.03.09-17.00.17:140][971]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474280.CharacterMesh0.ALS_AnimBP_C_2147474279'
+[2022.03.09-17.00.17:290][985]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474405.CharacterMesh0.ALS_AnimBP_C_2147474404'
+[2022.03.09-17.00.17:291][985]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474280.CharacterMesh0.ALS_AnimBP_C_2147474279'
+[2022.03.09-17.00.18:299][ 78]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474085.CharacterMesh0.ALS_AnimBP_C_2147474084'
+[2022.03.09-17.00.18:628][106]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474371.CharacterMesh0.ALS_AnimBP_C_2147474370'
+[2022.03.09-17.00.20:301][265]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473962.CharacterMesh0.ALS_AnimBP_C_2147473961'
+[2022.03.09-17.00.22:294][454]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473838.CharacterMesh0.ALS_AnimBP_C_2147473837'
+[2022.03.09-17.00.22:599][482]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473911.CharacterMesh0.ALS_AnimBP_C_2147473910'
+[2022.03.09-17.00.22:609][483]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473911.CharacterMesh0.ALS_AnimBP_C_2147473910'
+[2022.03.09-17.00.22:620][484]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474034.CharacterMesh0.ALS_AnimBP_C_2147474033'
+[2022.03.09-17.00.22:620][484]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474034.CharacterMesh0.ALS_AnimBP_C_2147474033'
+[2022.03.09-17.00.24:307][638]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473712.CharacterMesh0.ALS_AnimBP_C_2147473711'
+[2022.03.09-17.00.24:625][668]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147474000.CharacterMesh0.ALS_AnimBP_C_2147473999'
+[2022.03.09-17.00.26:307][824]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473579.CharacterMesh0.ALS_AnimBP_C_2147473578'
+[2022.03.09-17.00.28:294][  8]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473450.CharacterMesh0.ALS_AnimBP_C_2147473449'
+[2022.03.09-17.00.28:593][ 35]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473528.CharacterMesh0.ALS_AnimBP_C_2147473527'
+[2022.03.09-17.00.28:593][ 35]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473661.CharacterMesh0.ALS_AnimBP_C_2147473660'
+[2022.03.09-17.00.28:605][ 36]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473528.CharacterMesh0.ALS_AnimBP_C_2147473527'
+[2022.03.09-17.00.28:605][ 36]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473661.CharacterMesh0.ALS_AnimBP_C_2147473660'
+[2022.03.09-17.00.30:301][194]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473319.CharacterMesh0.ALS_AnimBP_C_2147473318'
+[2022.03.09-17.00.30:629][225]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473627.CharacterMesh0.ALS_AnimBP_C_2147473626'
+[2022.03.09-17.00.32:305][365]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473194.CharacterMesh0.ALS_AnimBP_C_2147473193'
+[2022.03.09-17.00.34:301][536]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473076.CharacterMesh0.ALS_AnimBP_C_2147473075'
+[2022.03.09-17.00.34:600][564]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473143.CharacterMesh0.ALS_AnimBP_C_2147473142'
+[2022.03.09-17.00.34:611][565]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473143.CharacterMesh0.ALS_AnimBP_C_2147473142'
+[2022.03.09-17.00.34:668][570]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473268.CharacterMesh0.ALS_AnimBP_C_2147473267'
+[2022.03.09-17.00.34:668][570]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473268.CharacterMesh0.ALS_AnimBP_C_2147473267'
+[2022.03.09-17.00.36:304][724]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472956.CharacterMesh0.ALS_AnimBP_C_2147472955'
+[2022.03.09-17.00.36:623][754]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147473234.CharacterMesh0.ALS_AnimBP_C_2147473233'
+[2022.03.09-17.00.38:295][911]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472835.CharacterMesh0.ALS_AnimBP_C_2147472834'
+[2022.03.09-17.00.40:302][ 99]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472720.CharacterMesh0.ALS_AnimBP_C_2147472719'
+[2022.03.09-17.00.40:607][127]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472784.CharacterMesh0.ALS_AnimBP_C_2147472783'
+[2022.03.09-17.00.40:607][127]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472784.CharacterMesh0.ALS_AnimBP_C_2147472783'
+[2022.03.09-17.00.40:626][129]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472905.CharacterMesh0.ALS_AnimBP_C_2147472904'
+[2022.03.09-17.00.40:626][129]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472905.CharacterMesh0.ALS_AnimBP_C_2147472904'
+[2022.03.09-17.00.42:299][286]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472597.CharacterMesh0.ALS_AnimBP_C_2147472596'
+[2022.03.09-17.00.42:626][316]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472871.CharacterMesh0.ALS_AnimBP_C_2147472870'
+[2022.03.09-17.00.44:303][471]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472470.CharacterMesh0.ALS_AnimBP_C_2147472469'
+[2022.03.09-17.00.46:293][658]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472354.CharacterMesh0.ALS_AnimBP_C_2147472353'
+[2022.03.09-17.00.46:975][721]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472419.CharacterMesh0.ALS_AnimBP_C_2147472418'
+[2022.03.09-17.00.46:975][721]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472419.CharacterMesh0.ALS_AnimBP_C_2147472418'
+[2022.03.09-17.00.47:126][734]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472546.CharacterMesh0.ALS_AnimBP_C_2147472545'
+[2022.03.09-17.00.47:126][734]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472546.CharacterMesh0.ALS_AnimBP_C_2147472545'
+[2022.03.09-17.00.48:295][843]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472231.CharacterMesh0.ALS_AnimBP_C_2147472230'
+[2022.03.09-17.00.48:625][873]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472512.CharacterMesh0.ALS_AnimBP_C_2147472511'
+[2022.03.09-17.00.50:298][ 25]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472107.CharacterMesh0.ALS_AnimBP_C_2147472106'
+[2022.03.09-17.00.52:295][210]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471985.CharacterMesh0.ALS_AnimBP_C_2147471984'
+[2022.03.09-17.00.53:002][276]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472180.CharacterMesh0.ALS_AnimBP_C_2147472179'
+[2022.03.09-17.00.53:002][276]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472180.CharacterMesh0.ALS_AnimBP_C_2147472179'
+[2022.03.09-17.00.53:090][284]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472056.CharacterMesh0.ALS_AnimBP_C_2147472055'
+[2022.03.09-17.00.53:090][284]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472056.CharacterMesh0.ALS_AnimBP_C_2147472055'
+[2022.03.09-17.00.54:296][394]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471868.CharacterMesh0.ALS_AnimBP_C_2147471867'
+[2022.03.09-17.00.54:626][423]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147472146.CharacterMesh0.ALS_AnimBP_C_2147472145'
+[2022.03.09-17.00.56:295][580]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471744.CharacterMesh0.ALS_AnimBP_C_2147471743'
+[2022.03.09-17.00.58:300][765]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471627.CharacterMesh0.ALS_AnimBP_C_2147471626'
+[2022.03.09-17.00.59:017][832]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471817.CharacterMesh0.ALS_AnimBP_C_2147471816'
+[2022.03.09-17.00.59:017][832]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471817.CharacterMesh0.ALS_AnimBP_C_2147471816'
+[2022.03.09-17.00.59:119][842]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471693.CharacterMesh0.ALS_AnimBP_C_2147471692'
+[2022.03.09-17.00.59:119][842]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471693.CharacterMesh0.ALS_AnimBP_C_2147471692'
+[2022.03.09-17.01.00:299][951]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471512.CharacterMesh0.ALS_AnimBP_C_2147471511'
+[2022.03.09-17.01.00:632][982]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471783.CharacterMesh0.ALS_AnimBP_C_2147471782'
+[2022.03.09-17.01.02:303][136]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471389.CharacterMesh0.ALS_AnimBP_C_2147471388'
+[2022.03.09-17.01.04:293][316]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471266.CharacterMesh0.ALS_AnimBP_C_2147471265'
+[2022.03.09-17.01.04:598][343]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471461.CharacterMesh0.ALS_AnimBP_C_2147471460'
+[2022.03.09-17.01.04:609][344]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471338.CharacterMesh0.ALS_AnimBP_C_2147471337'
+[2022.03.09-17.01.04:609][344]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471338.CharacterMesh0.ALS_AnimBP_C_2147471337'
+[2022.03.09-17.01.04:609][344]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471461.CharacterMesh0.ALS_AnimBP_C_2147471460'
+[2022.03.09-17.01.06:296][500]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471143.CharacterMesh0.ALS_AnimBP_C_2147471142'
+[2022.03.09-17.01.06:638][528]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471427.CharacterMesh0.ALS_AnimBP_C_2147471426'
+[2022.03.09-17.01.08:308][667]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471025.CharacterMesh0.ALS_AnimBP_C_2147471024'
+[2022.03.09-17.01.10:306][842]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470911.CharacterMesh0.ALS_AnimBP_C_2147470910'
+[2022.03.09-17.01.11:032][906]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471092.CharacterMesh0.ALS_AnimBP_C_2147471091'
+[2022.03.09-17.01.11:032][906]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471092.CharacterMesh0.ALS_AnimBP_C_2147471091'
+[2022.03.09-17.01.11:130][916]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470974.CharacterMesh0.ALS_AnimBP_C_2147470973'
+[2022.03.09-17.01.11:130][916]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470974.CharacterMesh0.ALS_AnimBP_C_2147470973'
+[2022.03.09-17.01.12:300][ 11]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470795.CharacterMesh0.ALS_AnimBP_C_2147470794'
+[2022.03.09-17.01.12:623][ 40]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147471058.CharacterMesh0.ALS_AnimBP_C_2147471057'
+[2022.03.09-17.01.14:303][183]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470674.CharacterMesh0.ALS_AnimBP_C_2147470673'
+[2022.03.09-17.01.16:303][359]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470556.CharacterMesh0.ALS_AnimBP_C_2147470555'
+[2022.03.09-17.01.16:448][372]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_JumpRun_RF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147482437.CharacterMesh0.ALS_AnimBP_C_2147482435'
+[2022.03.09-17.01.17:041][427]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470744.CharacterMesh0.ALS_AnimBP_C_2147470743'
+[2022.03.09-17.01.17:041][427]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470744.CharacterMesh0.ALS_AnimBP_C_2147470743'
+[2022.03.09-17.01.17:125][435]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470623.CharacterMesh0.ALS_AnimBP_C_2147470622'
+[2022.03.09-17.01.17:125][435]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470623.CharacterMesh0.ALS_AnimBP_C_2147470622'
+[2022.03.09-17.01.17:506][470]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147482437.CharacterMesh0.ALS_AnimBP_C_2147482435'
+[2022.03.09-17.01.18:300][545]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470437.CharacterMesh0.ALS_AnimBP_C_2147470436'
+[2022.03.09-17.01.18:301][545]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470420.CharacterMesh0.ALS_AnimBP_C_2147470419'
+[2022.03.09-17.01.18:301][545]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470420.CharacterMesh0.ALS_AnimBP_C_2147470419'
+[2022.03.09-17.01.18:625][574]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470710.CharacterMesh0.ALS_AnimBP_C_2147470709'
+[2022.03.09-17.01.20:300][731]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470315.CharacterMesh0.ALS_AnimBP_C_2147470314'
+[2022.03.09-17.01.22:297][917]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470196.CharacterMesh0.ALS_AnimBP_C_2147470195'
+[2022.03.09-17.01.23:149][997]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470386.CharacterMesh0.ALS_AnimBP_C_2147470385'
+[2022.03.09-17.01.23:149][997]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470386.CharacterMesh0.ALS_AnimBP_C_2147470385'
+[2022.03.09-17.01.23:171][999]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470264.CharacterMesh0.ALS_AnimBP_C_2147470263'
+[2022.03.09-17.01.23:171][999]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470264.CharacterMesh0.ALS_AnimBP_C_2147470263'
+[2022.03.09-17.01.24:302][106]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470078.CharacterMesh0.ALS_AnimBP_C_2147470077'
+[2022.03.09-17.01.24:628][136]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470352.CharacterMesh0.ALS_AnimBP_C_2147470351'
+[2022.03.09-17.01.26:294][296]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147469957.CharacterMesh0.ALS_AnimBP_C_2147469956'
+[2022.03.09-17.01.28:300][484]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147469837.CharacterMesh0.ALS_AnimBP_C_2147469836'
+[2022.03.09-17.01.28:599][510]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470027.CharacterMesh0.ALS_AnimBP_C_2147470026'
+[2022.03.09-17.01.28:609][511]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147469906.CharacterMesh0.ALS_AnimBP_C_2147469905'
+[2022.03.09-17.01.28:609][511]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147469906.CharacterMesh0.ALS_AnimBP_C_2147469905'
+[2022.03.09-17.01.28:609][511]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147470027.CharacterMesh0.ALS_AnimBP_C_2147470026'
+[2022.03.09-17.01.30:306][657]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147469715.CharacterMesh0.ALS_AnimBP_C_2147469714'
+[2022.03.09-17.01.30:633][683]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147469993.CharacterMesh0.ALS_AnimBP_C_2147469992'
+[2022.03.09-17.01.32:295][821]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147469588.CharacterMesh0.ALS_AnimBP_C_2147469587'
+[2022.03.09-17.01.34:309][986]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147469472.CharacterMesh0.ALS_AnimBP_C_2147469471'
+[2022.03.09-17.01.34:603][ 10]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147469664.CharacterMesh0.ALS_AnimBP_C_2147469663'
+[2022.03.09-17.01.34:603][ 10]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147469664.CharacterMesh0.ALS_AnimBP_C_2147469663'
+[2022.03.09-17.01.34:637][ 13]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147469537.CharacterMesh0.ALS_AnimBP_C_2147469536'
+[2022.03.09-17.01.34:637][ 13]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147469537.CharacterMesh0.ALS_AnimBP_C_2147469536'
+[2022.03.09-17.01.35:319][ 78]LogNet: Browse: /Game/MainContent/Map/StartUIMap
+[2022.03.09-17.01.35:319][ 78]LogLoad: LoadMap: /Game/MainContent/Map/StartUIMap
+[2022.03.09-17.01.35:319][ 78]LogWorld: BeginTearingDown for /Game/MainContent/Map/GuideMap
+[2022.03.09-17.01.35:320][ 78]LogWorld: UWorld::CleanupWorld for GuideMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-17.01.35:325][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-17.01.35:355][ 78]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.09-17.01.35:388][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.03.09-17.01.35:393][ 78]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.03.09-17.01.35:486][ 78]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartUIMap'.
+[2022.03.09-17.01.35:487][ 78]LogAIModule: Creating AISystem for world StartUIMap
+[2022.03.09-17.01.35:487][ 78]LogLoad: Game class is 'BPGameMode_C'
+[2022.03.09-17.01.35:488][ 78]LogWorld: Bringing World /Game/MainContent/Map/StartUIMap.StartUIMap up for play (max tick rate 0) at 2022.03.10-01.01.35
+[2022.03.09-17.01.35:489][ 78]LogWorld: Bringing up level for play took: 0.000350
+[2022.03.09-17.01.35:493][ 78]LogLoad: Took 0.174677 seconds to LoadMap(/Game/MainContent/Map/StartUIMap)
+[2022.03.09-17.01.35:494][ 78]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/StartUIMap.StartUIMap:PersistentLevel.MainChar_C_2147469314.CharacterMesh0.ALS_AnimBP_C_2147469312'
+[2022.03.09-17.01.35:494][ 78]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/StartUIMap.StartUIMap:PersistentLevel.MainChar_C_2147469314.CharacterMesh0.ALS_AnimBP_C_2147469312'
+[2022.03.09-17.01.36:002][176]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/StartUIMap.StartUIMap:PersistentLevel.MainChar_C_2147469314.CharacterMesh0.ALS_AnimBP_C_2147469312'
+[2022.03.09-17.01.36:451][270]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/StartUIMap.StartUIMap:PersistentLevel.MainChar_C_2147469314.CharacterMesh0.ALS_AnimBP_C_2147469312'
+[2022.03.09-17.01.37:665][519]LogNet: Browse: /Game/MainContent/Map/GuideMap
+[2022.03.09-17.01.37:665][519]LogLoad: LoadMap: /Game/MainContent/Map/GuideMap
+[2022.03.09-17.01.37:665][519]LogWorld: BeginTearingDown for /Game/MainContent/Map/StartUIMap
+[2022.03.09-17.01.37:666][519]LogWorld: UWorld::CleanupWorld for StartUIMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-17.01.37:666][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-17.01.37:701][519]LogAudio: Display: Waited 35.068100 ms for audio thread.
+[2022.03.09-17.01.37:701][519]LogAudio: Display: Waited 35.277699 ms for audio thread.
+[2022.03.09-17.01.37:703][519]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.09-17.01.37:708][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.03.09-17.01.37:711][519]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.03.09-17.01.37:842][519]LogAudio: Display: Audio Device (ID: 1) registered with world 'GuideMap'.
+[2022.03.09-17.01.37:843][519]LogAIModule: Creating AISystem for world GuideMap
+[2022.03.09-17.01.37:844][519]LogLoad: Game class is 'BPGameMode_C'
+[2022.03.09-17.01.37:846][519]LogWorld: Bringing World /Game/MainContent/Map/GuideMap.GuideMap up for play (max tick rate 0) at 2022.03.10-01.01.37
+[2022.03.09-17.01.37:867][519]LogWorld: Bringing up level for play took: 0.022770
+[2022.03.09-17.01.37:872][519]LogLoad: Took 0.206708 seconds to LoadMap(/Game/MainContent/Map/GuideMap)
+[2022.03.09-17.01.37:873][519]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147469230.CharacterMesh0.ALS_AnimBP_C_2147469228'
+[2022.03.09-17.01.37:873][519]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147469230.CharacterMesh0.ALS_AnimBP_C_2147469228'
+[2022.03.09-17.01.38:347][587]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147469230.CharacterMesh0.ALS_AnimBP_C_2147469228'
+[2022.03.09-17.01.38:641][631]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147469230.CharacterMesh0.ALS_AnimBP_C_2147469228'
+[2022.03.09-17.01.38:641][631]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147469230.CharacterMesh0.ALS_AnimBP_C_2147469228'
+[2022.03.09-17.01.39:683][792]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147469205.CharacterMesh0.ALS_AnimBP_C_2147469203'
+[2022.03.09-17.01.41:694][ 31]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147469091.CharacterMesh0.ALS_AnimBP_C_2147469090'
+[2022.03.09-17.01.43:684][260]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147468977.CharacterMesh0.ALS_AnimBP_C_2147468976'
+[2022.03.09-17.01.43:771][269]LogNet: Browse: /Game/MainContent/Map/StartUIMap
+[2022.03.09-17.01.43:771][269]LogLoad: LoadMap: /Game/MainContent/Map/StartUIMap
+[2022.03.09-17.01.43:771][269]LogWorld: BeginTearingDown for /Game/MainContent/Map/GuideMap
+[2022.03.09-17.01.43:772][269]LogWorld: UWorld::CleanupWorld for GuideMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-17.01.43:776][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-17.01.43:805][269]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.09-17.01.43:815][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.03.09-17.01.43:819][269]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.03.09-17.01.43:900][269]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartUIMap'.
+[2022.03.09-17.01.43:901][269]LogAIModule: Creating AISystem for world StartUIMap
+[2022.03.09-17.01.43:901][269]LogLoad: Game class is 'BPGameMode_C'
+[2022.03.09-17.01.43:901][269]LogWorld: Bringing World /Game/MainContent/Map/StartUIMap.StartUIMap up for play (max tick rate 0) at 2022.03.10-01.01.43
+[2022.03.09-17.01.43:901][269]LogWorld: Bringing up level for play took: 0.000274
+[2022.03.09-17.01.43:904][269]LogLoad: Took 0.133713 seconds to LoadMap(/Game/MainContent/Map/StartUIMap)
+[2022.03.09-17.01.43:905][269]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/StartUIMap.StartUIMap:PersistentLevel.MainChar_C_2147468825.CharacterMesh0.ALS_AnimBP_C_2147468823'
+[2022.03.09-17.01.43:905][269]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/StartUIMap.StartUIMap:PersistentLevel.MainChar_C_2147468825.CharacterMesh0.ALS_AnimBP_C_2147468823'
+[2022.03.09-17.01.44:459][381]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/StartUIMap.StartUIMap:PersistentLevel.MainChar_C_2147468825.CharacterMesh0.ALS_AnimBP_C_2147468823'
+[2022.03.09-17.01.46:148][715]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/StartUIMap.StartUIMap:PersistentLevel.MainChar_C_2147468825.CharacterMesh0.ALS_AnimBP_C_2147468823'
+[2022.03.09-17.02.00:705][757]LogNet: Browse: /Game/MainContent/Map/GuideMap
+[2022.03.09-17.02.00:705][757]LogLoad: LoadMap: /Game/MainContent/Map/GuideMap
+[2022.03.09-17.02.00:705][757]LogWorld: BeginTearingDown for /Game/MainContent/Map/StartUIMap
+[2022.03.09-17.02.00:706][757]LogWorld: UWorld::CleanupWorld for StartUIMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-17.02.00:706][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-17.02.00:741][757]LogAudio: Display: Waited 35.147701 ms for audio thread.
+[2022.03.09-17.02.00:741][757]LogAudio: Display: Waited 35.555099 ms for audio thread.
+[2022.03.09-17.02.00:746][757]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.09-17.02.00:753][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.03.09-17.02.00:756][757]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.03.09-17.02.00:875][757]LogAudio: Display: Audio Device (ID: 1) registered with world 'GuideMap'.
+[2022.03.09-17.02.00:876][757]LogAIModule: Creating AISystem for world GuideMap
+[2022.03.09-17.02.00:876][757]LogLoad: Game class is 'BPGameMode_C'
+[2022.03.09-17.02.00:879][757]LogWorld: Bringing World /Game/MainContent/Map/GuideMap.GuideMap up for play (max tick rate 0) at 2022.03.10-01.02.00
+[2022.03.09-17.02.00:901][757]LogWorld: Bringing up level for play took: 0.024322
+[2022.03.09-17.02.00:906][757]LogLoad: Took 0.201489 seconds to LoadMap(/Game/MainContent/Map/GuideMap)
+[2022.03.09-17.02.00:907][757]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147468736.CharacterMesh0.ALS_AnimBP_C_2147468734'
+[2022.03.09-17.02.00:907][757]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147468736.CharacterMesh0.ALS_AnimBP_C_2147468734'
+[2022.03.09-17.02.01:397][827]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147468736.CharacterMesh0.ALS_AnimBP_C_2147468734'
+[2022.03.09-17.02.01:683][870]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147468736.CharacterMesh0.ALS_AnimBP_C_2147468734'
+[2022.03.09-17.02.01:683][870]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147468736.CharacterMesh0.ALS_AnimBP_C_2147468734'
+[2022.03.09-17.02.02:724][ 22]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147468711.CharacterMesh0.ALS_AnimBP_C_2147468709'
+[2022.03.09-17.02.04:726][268]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147468594.CharacterMesh0.ALS_AnimBP_C_2147468593'
+[2022.03.09-17.02.06:727][476]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147468478.CharacterMesh0.ALS_AnimBP_C_2147468477'
+[2022.03.09-17.02.07:514][558]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147468543.CharacterMesh0.ALS_AnimBP_C_2147468542'
+[2022.03.09-17.02.07:514][558]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147468543.CharacterMesh0.ALS_AnimBP_C_2147468542'
+[2022.03.09-17.02.07:551][561]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147468658.CharacterMesh0.ALS_AnimBP_C_2147468657'
+[2022.03.09-17.02.07:551][561]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147468658.CharacterMesh0.ALS_AnimBP_C_2147468657'
+[2022.03.09-17.02.08:731][670]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147468363.CharacterMesh0.ALS_AnimBP_C_2147468362'
+[2022.03.09-17.02.09:051][696]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147468624.CharacterMesh0.ALS_AnimBP_C_2147468623'
+[2022.03.09-17.02.10:712][833]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_CLF_to_N' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.MainChar_C_2147468736.CharacterMesh0.ALS_AnimBP_C_2147468734'
+[2022.03.09-17.02.10:729][833]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/MainContent/Map/GuideMap.GuideMap:PersistentLevel.DemonstrationChar_C_2147468244.CharacterMesh0.ALS_AnimBP_C_2147468243'
+[2022.03.09-17.02.11:190][874]Closing by request
+[2022.03.09-17.02.11:190][874]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.03.09-17.02.11:190][874]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.03.09-17.02.11:190][874]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.03.09-17.02.11:202][875]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.03.09-17.02.11:202][875]LogInit: Display: PreExit Game.
+[2022.03.09-17.02.11:333][875]LogWorld: BeginTearingDown for /Game/MainContent/Map/GuideMap
+[2022.03.09-17.02.11:334][875]LogWorld: UWorld::CleanupWorld for GuideMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-17.02.11:338][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-17.02.12:269][875]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.03.09-17.02.12:269][875]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.03.09-17.02.12:269][875]LogAudio: Display: Audio Device unregistered from world 'GuideMap'.
+[2022.03.09-17.02.12:302][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.09-17.02.12:303][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.09-17.02.12:333][875]LogAudio: Display: Audio Device Manager Shutdown
+[2022.03.09-17.02.12:333][875]LogSlate: Request Window 'OnHisWay OnHisWay ' being destroyed
+[2022.03.09-17.02.12:341][875]LogSlate: Window 'OnHisWay OnHisWay ' being destroyed
+[2022.03.09-17.02.12:343][875]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+[2022.03.09-17.02.12:354][875]LogExit: Preparing to exit.
+[2022.03.09-17.02.12:355][875]LogMoviePlayer: Shutting down movie player
+[2022.03.09-17.02.12:365][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.09-17.02.12:374][875]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.03.09-17.02.12:381][875]LogExit: Game engine shut down
+[2022.03.09-17.02.12:414][875]LogExit: Object subsystem successfully closed.
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module AutomationController (362)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module AutomationWorker (360)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module Voice (358)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module NavigationSystem (353)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (350)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module WebMMedia (348)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module OpenXRInput (346)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module OculusMR (344)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (342)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (340)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (338)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (336)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module CharacterAI (334)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module PlanarCut (332)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module SessionServices (330)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module LiveCoding (328)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module LevelSequence (326)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (324)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module MovieScene (322)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (320)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (318)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module AudioMixerCore (317)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (314)
+[2022.03.09-17.02.12:419][875]LogModuleManager: Shutting down and abandoning module ProfilerService (312)
+[2022.03.09-17.02.12:639][875]LogModuleManager: Shutting down and abandoning module TaskGraph (310)
+[2022.03.09-17.02.12:639][875]LogModuleManager: Shutting down and abandoning module Synthesis (308)
+[2022.03.09-17.02.12:639][875]LogModuleManager: Shutting down and abandoning module TakeMovieScene (306)
+[2022.03.09-17.02.12:639][875]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (304)
+[2022.03.09-17.02.12:639][875]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (302)
+[2022.03.09-17.02.12:639][875]LogModuleManager: Shutting down and abandoning module LiveLink (300)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module OculusInput (298)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (296)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module GooglePAD (294)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (292)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module CableComponent (290)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module AudioCapture (288)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (287)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module AssetTags (284)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (282)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module AppleImageUtils (280)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module AndroidPermission (278)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (276)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MediaCompositing (274)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module ImgMedia (272)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (270)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (268)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (266)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (264)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (262)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (260)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MotoSynth (258)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module ChaosNiagara (256)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (254)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (252)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module EditableMesh (250)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MeshConversion (248)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module DynamicMesh (246)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (244)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module GeometricObjects (242)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module BackChannel (240)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module AutomationUtils (238)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (236)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module GeometryCache (234)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module UObjectPlugin (232)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (230)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module TemplateSequence (228)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module SoftEngineerProject (226)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (224)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (222)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module SoundFields (220)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (218)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (214)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module ActorSequence (212)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module UdpMessaging (210)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module TcpMessaging (208)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (206)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (204)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (202)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (200)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (198)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (196)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (194)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (192)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (190)
+[2022.03.09-17.02.13:250][875]LogModuleManager: Shutting down and abandoning module MagicLeapController (188)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (186)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module MagicLeapAR (184)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (182)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (180)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module Niagara (178)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module SignalProcessing (177)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module NiagaraCore (174)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module FacialAnimation (172)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module SignificanceManager (170)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module AnimationSharing (168)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module GameplayCameras (166)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (164)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module Paper2D (162)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module ColorWheelPlugin (160)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (158)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (156)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (154)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module PacketHandler (152)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (150)
+[2022.03.09-17.02.13:251][875]LogModuleManager: Shutting down and abandoning module MediaAssets (148)
+[2022.03.09-17.02.13:252][875]LogModuleManager: Shutting down and abandoning module Overlay (146)
+[2022.03.09-17.02.13:252][875]LogModuleManager: Shutting down and abandoning module FunctionalTesting (144)
+[2022.03.09-17.02.13:252][875]LogModuleManager: Shutting down and abandoning module MessageLog (142)
+[2022.03.09-17.02.13:253][875]LogModuleManager: Shutting down and abandoning module UMG (140)
+[2022.03.09-17.02.13:253][875]LogModuleManager: Shutting down and abandoning module SlateReflector (138)
+[2022.03.09-17.02.13:253][875]LogModuleManager: Shutting down and abandoning module Slate (136)
+[2022.03.09-17.02.13:253][875]LogModuleManager: Shutting down and abandoning module SlateCore (134)
+[2022.03.09-17.02.13:253][875]LogModuleManager: Shutting down and abandoning module MRMesh (132)
+[2022.03.09-17.02.13:253][875]LogModuleManager: Shutting down and abandoning module Messaging (130)
+[2022.03.09-17.02.13:253][875]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (128)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module XAudio2 (126)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module Networking (124)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module Core (122)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (120)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module ImageWrapper (116)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module D3D11RHI (114)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module PhysXCooking (108)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module Chaos (106)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (104)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (103)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module AVEncoder (102)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (98)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module SteamVRInput (96)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module SteamVR (94)
+[2022.03.09-17.02.13:254][875]LogHMD: Freeing OpenVRDLLHandle.
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (92)
+[2022.03.09-17.02.13:254][875]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module OpenXRAR (90)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module AugmentedReality (89)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module OpenXRHMD (86)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (84)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module ChunkDownloader (78)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2022.03.09-17.02.13:254][875]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2022.03.09-17.02.13:254][875]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.03.09-17.02.13:278][875]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2022.03.09-17.02.13:278][875]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2022.03.09-17.02.13:278][875]LogModuleManager: Shutting down and abandoning module Media (61)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module MediaInfo (60)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (56)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module MLSDK (54)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module MagicLeap (52)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (50)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module NiagaraShader (48)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module ChaosCloth (46)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module VariantManagerContent (44)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module DatasmithContent (42)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module PixWinPlugin (40)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module AISupportModule (38)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (36)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (34)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module PlatformCrypto (32)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (30)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (28)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.03.09-17.02.13:279][875]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.03.09-17.02.13:280][875]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.03.09-17.02.13:280][875]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.03.09-17.02.13:280][875]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.03.09-17.02.13:280][875]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.03.09-17.02.13:280][875]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.03.09-17.02.13:280][875]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.03.09-17.02.13:280][875]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.03.09-17.02.13:280][875]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.03.09-17.02.13:280][875]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.03.09-17.02.13:281][875]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.03.09-17.02.13:281][875]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.03.09-17.02.13:282][875]LogD3D11RHI: Shutdown
+[2022.03.09-17.02.13:282][875]LogD3D11RHI: CleanupD3DDevice
+[2022.03.09-17.02.13:289][875]LogExit: Exiting.
+[2022.03.09-17.02.13:357][875]Log file closed, 03/10/22 01:02:13
